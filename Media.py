@@ -36,16 +36,15 @@ nota3 = int(input("Insira a terceira nota: "))
 
 media = (nota1 + nota2 + nota3) / 3
 
- # Estrututa de decisão que decide se o aluno está aprovado ou não.
+#Estrututa de decisão que decide se o aluno está aprovado ou não.
 
 # if(media >= 70):
 #     print("Boas férias, você está aprovado.")
 
 # elif(media >= 50):
-#     print("Você está de recuperação.")
-
+#      print("Você está de recuperação.")
 # else:
-#     print("Reprovado.")
+#      print("Reprovado.")
 
 
 # Adaptações para tipos de 'Strings templates'
