@@ -30,4 +30,13 @@ while(contador < quantidadeDeNotas):
    acumulador = acumulador + nota
    contador = contador + 1
 
-print(acumulador / quantidadeDeNotas)
+media = (acumulador / quantidadeDeNotas)
+
+if(media >= 70):
+   print(f"A sua média foi de: {int(media)}. Parabéns, você está aprovado. Boas férias!")
+
+elif(media >= 50):
+   print(f"A sua média foi de: {int(media)}. Você está de recuperação, fique atento á data da próxima prova, não desista, estudar nunca é demais.")
+
+else:
+   print(f"A sua média foi de: {int(media)}. Você está reprovado, mas não desista, você está no caminho certo.")
