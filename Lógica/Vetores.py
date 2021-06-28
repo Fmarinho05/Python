@@ -27,6 +27,7 @@ print(nomes)
 
 print(nomes[0])
 
+# Estrutura de repetição 'for' com um vetor.
 nomes = ["Felipe", "Rafael", "Adriene"]
 
 for cliente in nomes:
