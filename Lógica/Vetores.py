@@ -1,11 +1,11 @@
 #Vetores são um conjuntos de dados ordenados. Chamado de 'list' no Python.  
 
-Class: Tuple - É semelhante a uma 'list', entretanto, com a característica principal de ser imutável.
-nomes = ("Felipe", "Lucas", "Rafael")
-print (type(nome))
+#Class: Tuple - É semelhante a uma 'list', entretanto, com a característica principal de ser imutável.
+# nomes = ("Felipe", "Lucas", "Rafael")
+# print (type(nome))
 
 
-Class: List - É conjunto de dados ordenados. Que de qualquer ponto do programa pode ser mudada ou acrescentada.
+#Class: List - É conjunto de dados ordenados. Que de qualquer ponto do programa pode ser mudada ou acrescentada.
 nomes = ["Felipe", "Rafael", "Adriene"]
 # print (type(nomes))
 
