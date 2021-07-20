@@ -49,7 +49,7 @@ print(quociente(14, 4))
 
 # print(expo(5,10))
 
-#Função com entradas de teclados. 
+#Função com entradas de teclados.
 def expo(base, expoente):
     if type(base) == type("") or type(expoente) == type(""):
         print("Você precisa digitar um número, por favor! ")
